@@ -1,0 +1,28 @@
+.l_round {
+  border-left: 1px solid #9a9ca5;
+  height: 820px;
+  position: absolute;
+  left: 45%;
+  top: 20%;
+}
+
+.l_round span {
+  position: absolute;
+  left: -8.5px;
+  color: #00ff84;
+}
+
+.l_round span:nth-child(1) {
+  margin-top: -20px;
+  color: #00ff84;
+}
+
+.l_round span:nth-child(2) {
+  top: 58%;
+  color: #00ff84;
+}
+
+.l_round span:nth-child(3) {
+  top: 99%;
+  color: #00ff84;
+}
